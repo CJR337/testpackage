@@ -2,7 +2,7 @@ pandoc: '3.2'
 pkgdown: 2.1.1
 pkgdown_sha: ~
 articles: {}
-last_built: 2025-01-17T10:10Z
+last_built: 2025-01-17T20:41Z
 urls:
   reference: https://cjr337.github.io/testpackage/reference
   article: https://cjr337.github.io/testpackage/articles

@@ -1,7 +1,7 @@
 # [A Framework for Open Source Clinical Trial Reporting](https://youtu.be/aW86KAi5CX0)
-## [&nbsp;&nbsp;&nbsp;&nbsp;*Part 1:* TLF Production & Validation](https://youtu.be/Fv7I7ThrhzU)
-## [&nbsp;&nbsp;&nbsp;&nbsp;*Part 2:* Subject Narratives/Patient Profile Production & Validation](https://youtu.be/LMn1udcHiE4)
-## [&nbsp;&nbsp;&nbsp;&nbsp;*Part 3:* Graphical Sandbox for Ad-Hoc Reporting](https://youtu.be/dJcI3-VXEas)
+## [*Part 1:* TLF Production & Validation](https://youtu.be/Fv7I7ThrhzU)
+## [*Part 2:* Subject Narratives/Patient Profile Production & Validation](https://youtu.be/LMn1udcHiE4)
+## [*Part 3:* Graphical Sandbox for Ad-Hoc Reporting](https://youtu.be/dJcI3-VXEas)
 
 ### Overview
 The videos linked to above introduce a framework for open source clinical trial reporting.  This project is motivated by the question of whether or not we can report clinical trials using open-source software, and if so, what would a solution look like?  The proposed framework contains 3 pillars:  1.) TLF Production & Validation, 2.) Subject Narrative/Patient Profile Production & Validation, and 3.) A Graphical Sandbox.  Select the links above to view videos of the corresponding sections.  The TLF and Patient Profile framework includes bundled PDFs and RTFs along with user-interfaces for CSR and ad-hoc reporting.  Here, TLF is an acronym for tables, listings and figures.  A full working prototype is demonstrated within the above videos, which have been released on youtube.

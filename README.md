@@ -14,4 +14,4 @@ This project is released under the MIT License. See the **[LICENSE](LICENSE.md)*
 
 ### Contact
 
-For any questions or comments about this project, please contact **[Chris Rook](cr883296@gmail.com)**.
+For any questions or comments about this project, please contact **[Chris Rook](mailto:cr883296@gmail.com?subject=[GitHub]%20Source%20Chris%20Rook)**.

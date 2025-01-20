@@ -1,9 +1,9 @@
 Package: testpackage
-Title: What the Package Does (One Line, Title Case)
+Title: Test Package Using R
 Version: 0.0.0.9000
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"))
-Description: What the package does (one paragraph).
+    person("Chris", "Rook", , "cr883296@gmail.com", role = c("aut", "cre"))
+Description: This is a test package that uses R. It makes use of devtools, testhtat, and pkgdown R packages. It uses git and github for version control, and contains data, code, tests, vignettes, and this website. 
 License: MIT + file LICENSE
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)

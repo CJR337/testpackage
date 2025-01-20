@@ -1,12 +1,10 @@
-#' my_function
+#' Say hello and multiply a number by 2.
 #' 
-#' A function to print the words "New function!"
-#'
-#' @return A character vector
-#' @export
-#'
+#' @param inval A number.
+#' @returns A number.
 #' @examples
-#' my_function()
+#' hello(5)
+#' hello(10)
 
 hello <- function(inval) {
   print(paste0("Hello, world! ",inval))

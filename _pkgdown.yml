@@ -1,4 +1,7 @@
 url: https://cjr337.github.io/testpackage/
 template:
   bootstrap: 5
-
+  light-switch: true
+bslib:
+  bootswatch: lux
+  pkgdown-nav-height: 100px

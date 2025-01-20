@@ -1,3 +1,5 @@
+# testpackage <a href="https://cjr337.github.io/testpackage"><img src="man/figures/logo.png" align="right" height="138" /></a>
+
 # [A Framework for Open Source Clinical Trial Reporting](https://youtu.be/aW86KAi5CX0)
 ## [*Part 1:* TLF Production & Validation](https://youtu.be/Fv7I7ThrhzU)
 ## [*Part 2:* Patient Profile Production & Validation](https://youtu.be/LMn1udcHiE4)

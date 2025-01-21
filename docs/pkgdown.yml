@@ -3,7 +3,7 @@ pkgdown: 2.1.1
 pkgdown_sha: ~
 articles:
   Vignette-1: Vignette-1.html
-last_built: 2025-01-21T10:18Z
+last_built: 2025-01-21T10:25Z
 urls:
   reference: https://cjr337.github.io/testpackage/reference
   article: https://cjr337.github.io/testpackage/articles

@@ -1,9 +1,9 @@
 <a id="readme-top"></a>
 
+[![Contributors][contributors-shield]][contributors-url]
 [![Issues][issues-shield]][issues-url]
 [![License: MIT][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-[![Contributors][contributors-shield]][contributors-url]
 
 # testpackage <a href="https://cjr337.github.io/testpackage"><img src="man/figures/logo.png" align="right" height="48" /></a>
 

@@ -3,6 +3,7 @@
 [![Issues][issues-shield]][issues-url]
 [![License: MIT][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+[![Contributors][contributors-shield]][contributors-url]
 
 # testpackage <a href="https://cjr337.github.io/testpackage"><img src="man/figures/logo.png" align="right" height="48" /></a>
 
@@ -52,3 +53,6 @@ For any questions or comments about this project, please contact **[Chris Rook](
 [license-url]: https://opensource.org/licenses/MIT
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/christopher-rook-princeton/
+[contributors-shield]: https://img.shields.io/github/contributors/CJR337/testtemplate.svg?style=for-the-badge
+[contributors-url]: https://github.com/CJR337/testtemplate/graphs/contributors
+

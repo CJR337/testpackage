@@ -1,6 +1,7 @@
 <a id="readme-top"></a>
 
 [![Contributors][contributors-shield]][contributors-url]
+[![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![License: MIT][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
@@ -55,4 +56,7 @@ For any questions or comments about this project, please contact **[Chris Rook](
 [linkedin-url]: https://linkedin.com/in/christopher-rook-princeton/
 [contributors-shield]: https://img.shields.io/github/contributors/CJR337/testpackage.svg?style=for-the-badge
 [contributors-url]: https://github.com/CJR337/testpackage/graphs/contributors
+
+[stars-shield]: https://img.shields.io/github/stars/CJR337/testpackage.svg?style=for-the-badge
+[stars-url]: https://github.com/CJR337/testpackage/stargazers
 

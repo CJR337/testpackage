@@ -53,6 +53,6 @@ For any questions or comments about this project, please contact **[Chris Rook](
 [license-url]: https://opensource.org/licenses/MIT
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/christopher-rook-princeton/
-[contributors-shield]: https://img.shields.io/github/contributors/CJR337/testtemplate.svg?style=for-the-badge
-[contributors-url]: https://github.com/CJR337/testtemplate/graphs/contributors
+[contributors-shield]: https://img.shields.io/github/contributors/CJR337/testpackage.svg?style=for-the-badge
+[contributors-url]: https://github.com/CJR337/testpackage/graphs/contributors
 

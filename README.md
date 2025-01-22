@@ -49,6 +49,6 @@ For any questions or comments about this project, please contact **[Chris Rook](
 [issues-shield]: https://img.shields.io/github/issues/CJR337/testpackage.svg?style=for-the-badge
 [issues-url]: https://github.com/CJR337/testpackage/issues
 [license-shield]: https://img.shields.io/github/license/CJR337/testpackage.svg?style=for-the-badge
-[license-url]: https://github.com/CJR337/testpackage/docs/LICENSE-text.md
+[license-url]: https://github.com/CJR337/testpackage/blob/master/docs/LICENSE-text.md
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/christopher-rook-princeton/

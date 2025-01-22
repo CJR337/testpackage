@@ -38,7 +38,7 @@ devtools::install_github("CJR337/testpackage")
 
 ### License
 
-This project is released under the MIT License. See the **[LICENSE](LICENSE-text.html)** file for details.
+This project is released under the MIT License. See the **[LICENSE](docs/LICENSE-text.md)** file for details.
 
 ### Contact
 

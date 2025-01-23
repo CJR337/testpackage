@@ -1,10 +1,34 @@
 <a id="readme-top"></a>
 
 [![Contributors][contributors-shield]][contributors-url]
+[![Forks][forks-shield]][forks-url]
 [![Stargazers][stars-shield]][stars-url]
 [![Issues][issues-shield]][issues-url]
 [![License: MIT][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
+
+<!-- PROJECT LOGO -->
+<br />
+<div align="center">
+  <a href="https://github.com/CJR337/testpackage/">
+    <img src="docs/logo.png" alt="Logo" width="80" height="80">
+  </a>
+
+  <h3 align="center">Test-Package-Template</h3>
+
+  <p align="center">
+    This is a template for the test package.
+    <br />
+    <a href="https://github.com/CJR337/testpackage"><strong>Explore the docs »</strong></a>
+    <br />
+    <br />
+    <a href="https://github.com/CJR337/testpackage">View Demo</a>
+    &middot;
+    <a href="https://github.com/CJR337/testpackage/issues/new?labels=bug&template=bug-report---.md">Report Bug</a>
+    &middot;
+    <a href="https://github.com/CJR337/testpackage/issues/new?labels=enhancement&template=feature-request---.md">Request Feature</a>
+  </p>
+</div>
 
 # testpackage <a href="https://cjr337.github.io/testpackage"><img src="man/figures/logo.png" align="right" height="48" /></a>
 
@@ -56,7 +80,8 @@ For any questions or comments about this project, please contact **[Chris Rook](
 [linkedin-url]: https://linkedin.com/in/christopher-rook-princeton/
 [contributors-shield]: https://img.shields.io/github/contributors/CJR337/testpackage.svg?style=for-the-badge
 [contributors-url]: https://github.com/CJR337/testpackage/graphs/contributors
-
+[forks-shield]: https://img.shields.io/github/forks/CJR337/testpackage.svg?style=for-the-badge
+[forks-url]: https://github.com/CJR337/testpackage/network/members
 [stars-shield]: https://img.shields.io/github/stars/CJR337/testpackage.svg?style=for-the-badge
 [stars-url]: https://github.com/CJR337/testpackage/stargazers
 

@@ -8,8 +8,8 @@
 [![Issues][issues-shield]][issues-url]
 [![License: MIT][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
-
 [![Pull-Requests][pull-requests-shield]][pull-requests-url]
+
 [![Github Releases][downloads-shield]][downloads-url]
 [![Issues-Closed][closed-shield]][closed-url]
 [![GitHub watchers][watchers-shield]][watchers-url]
@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/CJR337/testpackage/">
-    <img src="man/figures/logo.png" alt="Logo" width="300" height="460">
+    <img src="man/figures/logo.png" alt="Logo" height="500" width="900">
   </a>
 
   <h3 align="center">Open-Source-Clinical-Reporting</h3>

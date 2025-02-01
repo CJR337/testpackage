@@ -1,4 +1,4 @@
-<!-- START HERE:  ADD MORE BADGES FROM https://naereen.github.io/badges/  (SUCH AS RELEASE, LAST COMMIT, ETC... 2 full rows should be good) -->
+<!-- SHIELDS FROM https://naereen.github.io/badges/ -->
 
 <a id="readme-top"></a>
 
@@ -20,13 +20,13 @@
 <br />
 <div align="center">
   <a href="https://github.com/CJR337/testpackage/">
-    <img src="man/figures/logo.png" alt="Logo" width="80" height="80">
+    <img src="man/figures/logo2.png" alt="Logo" width="600" height="480">
   </a>
 
-  <h3 align="center">Test-Package-Template</h3>
+  <h3 align="center">Open-Source-Clinical-Reporting</h3>
 
   <p align="center">
-    This is a template for the test package.
+    This is a framework for open source clinical trial reporting.
     <br />
     <a href="https://github.com/CJR337/testpackage/tree/master/docs"><strong>Explore the docs »</strong></a>
     <br />
@@ -72,9 +72,7 @@
 
 <hr />
 
-# testpackage <a href="https://cjr337.github.io/testpackage"><img src="man/figures/logo.png" align="right" height="48" /></a>
-
-# [A Framework for Open Source Reporting](https://youtu.be/aW86KAi5CX0)
+# [Open Source Statistical Reporting](https://youtu.be/aW86KAi5CX0)
 ## [*Part 1:* TLF Production & Validation](https://youtu.be/Fv7I7ThrhzU)
 ## [*Part 2:* Patient Profile Production & Validation](https://youtu.be/LMn1udcHiE4)
 ## [*Part 3:* Graphical Sandbox for Ad-Hoc Reporting](https://youtu.be/dJcI3-VXEas)

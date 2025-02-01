@@ -20,7 +20,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/CJR337/testpackage/">
-    <img src="man/figures/logo2.png" alt="Logo" width="600" height="480">
+    <img src="man/figures/logo.png" alt="Logo" width="600" height="480">
   </a>
 
   <h3 align="center">Open-Source-Clinical-Reporting</h3>

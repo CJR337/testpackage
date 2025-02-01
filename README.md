@@ -1,4 +1,3 @@
-
 <!-- START HERE:  ADD MORE BADGES FROM https://naereen.github.io/badges/  (SUCH AS RELEASE, LAST COMMIT, ETC... 2 full rows should be good) -->
 
 <a id="readme-top"></a>
@@ -10,10 +9,10 @@
 [![License: MIT][license-shield]][license-url]
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
-<hr />
-
 [![Pull-Requests][pull-requests-shield]][pull-requests-url]
 [![Github Releases][downloads-shield]][downloads-url]
+[![Issues-Closed][closed-shield]][closed-url]
+[![GitHub watchers][watchers-shield]][watchers-url]
 
 <hr />
 
@@ -175,7 +174,7 @@ We would like to acknowledge the following useful sources:
 [stars-url]: https://github.com/CJR337/testpackage/stargazers
 [downloads-shield]: https://img.shields.io/github/downloads/CJR337/testpackage/total.svg?style=for-the-badge
 [downloads-url]: https://github.com/CJR337/testpackage/releases/
-
-
-
-
+[closed-shield]: https://img.shields.io/github/issues-closed/CJR337/testpackage.svg?style=for-the-badge
+[closed-url]: https://GitHub.com/CJR337/testpackage/issues?q=is%3Aissue+is%3Aclosed
+[watchers-shield]: https://img.shields.io/github/watchers/CJR337/testpackage.svg?style=for-the-badge
+[watchers-url]: https://GitHub.com/CJR337/testpackage/watchers/
